@@ -2,6 +2,11 @@
 
 一个基于 **Vue 3 + Three.js** 的「积木式」数据结构数据流仿真器。用户像搭积木一样把各种数据结构拖入 3D 场景，用连线把它们串成流水线，点击运行即可直观观察数据在栈、队列、树、哈希表等结构之间的流动、存取与拥塞情况。
 
+> 🎮 **在线体验**：<https://kowasaretaneko17.github.io/data-structure-sim/>
+
+[![在线体验](https://img.shields.io/badge/🎮_在线体验-立即开始-4f7cff?style=for-the-badge)](https://kowasaretaneko17.github.io/data-structure-sim/)
+[![部署状态](https://img.shields.io/github/actions/workflow/status/kowasaretaneko17/data-structure-sim/deploy.yml?branch=master&label=部署状态)](https://github.com/kowasaretaneko17/data-structure-sim/actions)
+
 > 版本：0.1.0 · 技术栈：Vue 3 / TypeScript / Three.js / Vite
 
 ---

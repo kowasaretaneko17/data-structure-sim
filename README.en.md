@@ -2,6 +2,11 @@
 
 A block-based data-flow simulator for data structures, built with **Vue 3 + Three.js**. Drag data-structure "blocks" into a 3D scene, wire them together into pipelines, hit Run, and watch data flow through stacks, queues, trees, hash maps, and more — with real-time transfer animations and congestion visualization.
 
+> 🎮 **Live Demo**: <https://kowasaretaneko17.github.io/data-structure-sim/>
+
+[![Live Demo](https://img.shields.io/badge/🎮_Live_Demo-Try_Now-4f7cff?style=for-the-badge)](https://kowasaretaneko17.github.io/data-structure-sim/)
+[![Deploy Status](https://img.shields.io/github/actions/workflow/status/kowasaretaneko17/data-structure-sim/deploy.yml?branch=master&label=deploy)](https://github.com/kowasaretaneko17/data-structure-sim/actions)
+
 > Version: 0.1.0 · Stack: Vue 3 / TypeScript / Three.js / Vite
 
 ---
