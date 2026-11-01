@@ -1,5 +1,7 @@
 # Data Structure 3D Simulator (data-structure-sim)
 
+> **Understand data structures, block by block.**
+
 A block-based data-flow simulator for data structures, built with **Vue 3 + Three.js**. Drag data-structure "blocks" into a 3D scene, wire them together into pipelines, hit Run, and watch data flow through stacks, queues, trees, hash maps, and more — with real-time transfer animations and congestion visualization.
 
 > 🎮 **Live Demo**: <https://kowasaretaneko17.github.io/data-structure-sim/>
